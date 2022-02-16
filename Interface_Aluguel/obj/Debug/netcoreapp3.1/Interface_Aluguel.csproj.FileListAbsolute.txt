@@ -1,0 +1,14 @@
+C:\Users\Pablo\Documents\C#\SEÇÃO 14\Interface_Aluguel\Interface_Aluguel\obj\Debug\netcoreapp3.1\Interface_Aluguel.csproj.AssemblyReference.cache
+C:\Users\Pablo\Documents\C#\SEÇÃO 14\Interface_Aluguel\Interface_Aluguel\obj\Debug\netcoreapp3.1\Interface_Aluguel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Documents\C#\SEÇÃO 14\Interface_Aluguel\Interface_Aluguel\obj\Debug\netcoreapp3.1\Interface_Aluguel.AssemblyInfoInputs.cache
+C:\Users\Pablo\Documents\C#\SEÇÃO 14\Interface_Aluguel\Interface_Aluguel\obj\Debug\netcoreapp3.1\Interface_Aluguel.AssemblyInfo.cs
+C:\Users\Pablo\Documents\C#\SEÇÃO 14\Interface_Aluguel\Interface_Aluguel\obj\Debug\netcoreapp3.1\Interface_Aluguel.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\C#\SEÇÃO 14\Interface_Aluguel\Interface_Aluguel\bin\Debug\netcoreapp3.1\Interface_Aluguel.exe
+C:\Users\Pablo\Documents\C#\SEÇÃO 14\Interface_Aluguel\Interface_Aluguel\bin\Debug\netcoreapp3.1\Interface_Aluguel.deps.json
+C:\Users\Pablo\Documents\C#\SEÇÃO 14\Interface_Aluguel\Interface_Aluguel\bin\Debug\netcoreapp3.1\Interface_Aluguel.runtimeconfig.json
+C:\Users\Pablo\Documents\C#\SEÇÃO 14\Interface_Aluguel\Interface_Aluguel\bin\Debug\netcoreapp3.1\Interface_Aluguel.runtimeconfig.dev.json
+C:\Users\Pablo\Documents\C#\SEÇÃO 14\Interface_Aluguel\Interface_Aluguel\bin\Debug\netcoreapp3.1\Interface_Aluguel.dll
+C:\Users\Pablo\Documents\C#\SEÇÃO 14\Interface_Aluguel\Interface_Aluguel\bin\Debug\netcoreapp3.1\Interface_Aluguel.pdb
+C:\Users\Pablo\Documents\C#\SEÇÃO 14\Interface_Aluguel\Interface_Aluguel\obj\Debug\netcoreapp3.1\Interface_Aluguel.dll
+C:\Users\Pablo\Documents\C#\SEÇÃO 14\Interface_Aluguel\Interface_Aluguel\obj\Debug\netcoreapp3.1\Interface_Aluguel.pdb
+C:\Users\Pablo\Documents\C#\SEÇÃO 14\Interface_Aluguel\Interface_Aluguel\obj\Debug\netcoreapp3.1\Interface_Aluguel.genruntimeconfig.cache
